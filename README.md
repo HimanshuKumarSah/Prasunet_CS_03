@@ -3,7 +3,7 @@ This is a simple python program that checks for different passwords and their st
 <br>
 ---
 # Follow these steps to use the program for yourself.
-To run this program, use `git clone https://github.com/davidbombal/python-keylogger.git`
+To run this program, use `git clone https://github.com/HimanshuKumarSah/Prasunet_CS_03.git`
 <br>
 Run the command `cd Prasunet_CS_03`
 <br>
